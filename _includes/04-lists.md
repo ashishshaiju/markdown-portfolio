@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+### My Favorite Things
+ * Play Games(Outdoor probably)
+ * Watch Youtube Videos
+ * etc
+   * etc
